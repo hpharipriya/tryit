@@ -10,5 +10,11 @@
          com.google.pwa
        </name>
      </dependancy>
+    
+      <dependancy>
+       <name> 
+         com.mathrubhumi.white
+       </name>
+     </dependancy>
   </dependancies>
 </project>
