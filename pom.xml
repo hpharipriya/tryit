@@ -10,5 +10,10 @@
          com.google.pwa
        </name>
      </dependancy>
+     <dependancy>
+       <name> 
+         com.google.amp
+       </name>
+     </dependancy>
   </dependancies>
 </project>
